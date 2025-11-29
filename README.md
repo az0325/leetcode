@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/az0325/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/az0325/leetcode/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/az0325/leetcode/tree/master/0344-reverse-string) |
+| [0819-most-common-word](https://github.com/az0325/leetcode/tree/master/0819-most-common-word) |
 | [0837-most-common-word](https://github.com/az0325/leetcode/tree/master/0837-most-common-word) |
 | [0937-reorder-data-in-log-files](https://github.com/az0325/leetcode/tree/master/0937-reorder-data-in-log-files) |
 | [0974-reorder-data-in-log-files](https://github.com/az0325/leetcode/tree/master/0974-reorder-data-in-log-files) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/az0325/leetcode/tree/master/0049-group-anagrams) |
+| [0819-most-common-word](https://github.com/az0325/leetcode/tree/master/0819-most-common-word) |
 | [0837-most-common-word](https://github.com/az0325/leetcode/tree/master/0837-most-common-word) |
 | [0937-reorder-data-in-log-files](https://github.com/az0325/leetcode/tree/master/0937-reorder-data-in-log-files) |
 | [0974-reorder-data-in-log-files](https://github.com/az0325/leetcode/tree/master/0974-reorder-data-in-log-files) |
@@ -32,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/az0325/leetcode/tree/master/0049-group-anagrams) |
+| [0819-most-common-word](https://github.com/az0325/leetcode/tree/master/0819-most-common-word) |
 | [0837-most-common-word](https://github.com/az0325/leetcode/tree/master/0837-most-common-word) |
 ## Counting
 |  |
 | ------- |
+| [0819-most-common-word](https://github.com/az0325/leetcode/tree/master/0819-most-common-word) |
 | [0837-most-common-word](https://github.com/az0325/leetcode/tree/master/0837-most-common-word) |
 ## Dynamic Programming
 |  |
