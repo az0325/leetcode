@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/az0325/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/az0325/leetcode/tree/master/0049-group-anagrams) |
 | [0819-most-common-word](https://github.com/az0325/leetcode/tree/master/0819-most-common-word) |
 | [0837-most-common-word](https://github.com/az0325/leetcode/tree/master/0837-most-common-word) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/az0325/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/az0325/leetcode/tree/master/0049-group-anagrams) |
 | [0819-most-common-word](https://github.com/az0325/leetcode/tree/master/0819-most-common-word) |
 | [0837-most-common-word](https://github.com/az0325/leetcode/tree/master/0837-most-common-word) |
