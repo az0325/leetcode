@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/az0325/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/az0325/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/az0325/leetcode/tree/master/0049-group-anagrams) |
+| [0561-array-partition](https://github.com/az0325/leetcode/tree/master/0561-array-partition) |
 | [0819-most-common-word](https://github.com/az0325/leetcode/tree/master/0819-most-common-word) |
 | [0837-most-common-word](https://github.com/az0325/leetcode/tree/master/0837-most-common-word) |
 | [0937-reorder-data-in-log-files](https://github.com/az0325/leetcode/tree/master/0937-reorder-data-in-log-files) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/az0325/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/az0325/leetcode/tree/master/0049-group-anagrams) |
+| [0561-array-partition](https://github.com/az0325/leetcode/tree/master/0561-array-partition) |
 | [0937-reorder-data-in-log-files](https://github.com/az0325/leetcode/tree/master/0937-reorder-data-in-log-files) |
 | [0974-reorder-data-in-log-files](https://github.com/az0325/leetcode/tree/master/0974-reorder-data-in-log-files) |
 ## Hash Table
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/az0325/leetcode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/az0325/leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/az0325/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
