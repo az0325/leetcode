@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/az0325/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/az0325/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0561-array-partition](https://github.com/az0325/leetcode/tree/master/0561-array-partition) |
+| [0622-design-circular-queue](https://github.com/az0325/leetcode/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/az0325/leetcode/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/az0325/leetcode/tree/master/0819-most-common-word) |
 | [0837-most-common-word](https://github.com/az0325/leetcode/tree/master/0837-most-common-word) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/az0325/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/az0325/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/az0325/leetcode/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/az0325/leetcode/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -118,9 +120,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/az0325/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/az0325/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/az0325/leetcode/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/az0325/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/az0325/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/az0325/leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
