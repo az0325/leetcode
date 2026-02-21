@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/az0325/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/az0325/leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/az0325/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/az0325/leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/az0325/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0561-array-partition](https://github.com/az0325/leetcode/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/az0325/leetcode/tree/master/0622-design-circular-queue) |
@@ -141,4 +142,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/az0325/leetcode/tree/master/0706-design-hashmap) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/az0325/leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/az0325/leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/az0325/leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/az0325/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
