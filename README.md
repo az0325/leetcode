@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/az0325/leetcode/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/az0325/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/az0325/leetcode/tree/master/0641-design-circular-deque) |
+| [0706-design-hashmap](https://github.com/az0325/leetcode/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/az0325/leetcode/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/az0325/leetcode/tree/master/0819-most-common-word) |
 | [0837-most-common-word](https://github.com/az0325/leetcode/tree/master/0837-most-common-word) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/az0325/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/az0325/leetcode/tree/master/0049-group-anagrams) |
+| [0706-design-hashmap](https://github.com/az0325/leetcode/tree/master/0706-design-hashmap) |
 | [0819-most-common-word](https://github.com/az0325/leetcode/tree/master/0819-most-common-word) |
 | [0837-most-common-word](https://github.com/az0325/leetcode/tree/master/0837-most-common-word) |
 ## Counting
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/az0325/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/az0325/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/az0325/leetcode/tree/master/0641-design-circular-deque) |
+| [0706-design-hashmap](https://github.com/az0325/leetcode/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/az0325/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/az0325/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/az0325/leetcode/tree/master/0641-design-circular-deque) |
+| [0706-design-hashmap](https://github.com/az0325/leetcode/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -131,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/az0325/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/az0325/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/az0325/leetcode/tree/master/0641-design-circular-deque) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/az0325/leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
