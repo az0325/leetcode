@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/az0325/leetcode/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/az0325/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/az0325/leetcode/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/az0325/leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/az0325/leetcode/tree/master/0819-most-common-word) |
 | [0837-most-common-word](https://github.com/az0325/leetcode/tree/master/0837-most-common-word) |
 | [0937-reorder-data-in-log-files](https://github.com/az0325/leetcode/tree/master/0937-reorder-data-in-log-files) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/az0325/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/az0325/leetcode/tree/master/0049-group-anagrams) |
 | [0706-design-hashmap](https://github.com/az0325/leetcode/tree/master/0706-design-hashmap) |
+| [0771-jewels-and-stones](https://github.com/az0325/leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/az0325/leetcode/tree/master/0819-most-common-word) |
 | [0837-most-common-word](https://github.com/az0325/leetcode/tree/master/0837-most-common-word) |
 ## Counting
