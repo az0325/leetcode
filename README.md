@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/az0325/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/az0325/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/az0325/leetcode/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/az0325/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/az0325/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/az0325/leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/az0325/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -169,4 +170,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/az0325/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/az0325/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/az0325/leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/az0325/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/az0325/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
