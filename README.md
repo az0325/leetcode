@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/az0325/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/az0325/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/az0325/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/az0325/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Stack
 |  |
 | ------- |
@@ -157,12 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/az0325/leetcode/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/az0325/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/az0325/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/az0325/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/az0325/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/az0325/leetcode/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/az0325/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/az0325/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Union-Find
 |  |
 | ------- |
@@ -189,11 +192,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/az0325/leetcode/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/az0325/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/az0325/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/az0325/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/az0325/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/az0325/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/az0325/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -206,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/az0325/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/az0325/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
