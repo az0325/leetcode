@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/az0325/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/az0325/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/az0325/leetcode/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/az0325/leetcode/tree/master/0226-invert-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/az0325/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0543-diameter-of-binary-tree](https://github.com/az0325/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/az0325/leetcode/tree/master/0687-longest-univalue-path) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/az0325/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/az0325/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/az0325/leetcode/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/az0325/leetcode/tree/master/0226-invert-binary-tree) |
 | [0743-network-delay-time](https://github.com/az0325/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/az0325/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Union-Find
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/az0325/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/az0325/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/az0325/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/az0325/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/az0325/leetcode/tree/master/0687-longest-univalue-path) |
 ## Binary Tree
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/az0325/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/az0325/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/az0325/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/az0325/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/az0325/leetcode/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
